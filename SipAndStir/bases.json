@@ -1,0 +1,164 @@
+[
+  {
+    "id": "Brandy",
+    "ABV": "12-28%",
+    "crew": [
+      {
+        "name": "sidecar",
+        "mood": "Refreshers"
+      },
+      {
+        "name": "brandy-alexander",
+        "mood": "Luxurious"
+      },
+      {
+        "name": "champagne-cocktail",
+        "mood": "Celebrations"
+      }
+    ],
+    "description": "Brandy, a timeless spirit with roots steeped in history, brings sophistication and warmth to every sip. \n\nKnown for its rich and velvety character, brandy pairs beautifully with a variety of flavours, making it the perfect base for both classic and innovative cocktails. Whether stirred with fruity accents, complemented by aromatic bitters, or balanced with effervescent mixers, brandy-based cocktails offer an experience that's both refined and adventurous, catering to every palate and occasion."
+  },
+  {
+    "id": "Gin",
+    "ABV": "10-30%",
+    "crew": [
+      {
+        "name": "martini",
+        "mood": "Classics"
+      },
+      {
+        "name": "negroni",
+        "mood": "Classics"
+      },
+      {
+        "name": "tom-collins",
+        "mood": "Refreshers"
+      }
+    ],
+    "description": "Gin-based cocktails are beverages that use gin as their primary spirit, leveraging its botanical complexity to create a wide variety of flavor profiles. \n\nGin, known for its juniper-forward taste, can be paired with sweet, sour, or bitter ingredients to suit diverse preferences. These cocktails often balance gin's herbal and citrusy notes with complementary mixers, making them a favorite for both refreshing summer drinks and elegant evening sips."
+  },
+  {
+    "id": "Rum",
+    "ABV": "15-25%",
+    "crew": [
+      {
+        "name": "mojito",
+        "mood": "Get-A-Way"
+      },
+      {
+        "name": "daiquiri",
+        "mood": "Parties"
+      },
+      {
+        "name": "pinacolada",
+        "mood": "Tropical"
+      },
+      {
+        "name": "maitai",
+        "mood": "Romantic"
+      }
+    ],
+    "description": "They showcases the spirit's versatility, ranging from light and refreshing to bold and complex. \n\nMade from sugarcane or molasses, rum's sweet and spicy undertones make it a key ingredient in tropical, festive, and even classic cocktails. \n\nHere are four iconic rum cocktails."
+  },
+  {
+    "id": "Vodka",
+    "ABV": "12-30%",
+    "crew": [
+      {
+        "name": "moscowmule",
+        "mood": "Refreshers"
+      },
+      {
+        "name": "bloodymary",
+        "mood": "Comforts"
+      },
+      {
+        "name": "cosmopolitan",
+        "mood": "Parties"
+      }
+    ],
+    "description": "Vodka-based cocktails are celebrated for their versatility and clean flavor, allowing the other ingredients in a drink to shine. \n\nThis neutrality makes vodka the perfect base for a wide range of cocktails, from fruity to savory to strong."
+  },
+  {
+    "id": "Whisky",
+    "ABV": "20-40%",
+    "crew": [
+      {
+        "name": "old-fashioned",
+        "mood": "Classics"
+      },
+      {
+        "name": "manhattan",
+        "mood": "Solitude"
+      },
+      {
+        "name": "whisky-sour",
+        "mood": "Holidays"
+      },
+      {
+        "name": "mint-julep",
+        "mood": "Refreshers"
+      }
+    ],
+    "description": "Whiskey-based cocktails are renowned for their depth and warmth, showcasing the spirit’s rich, complex flavors. \n\nFrom sweet to smoky, these cocktails highlight whiskey’s versatility and timeless appeal."
+  },
+  {
+    "id": "Wine",
+    "ABV": "7-12%",
+    "crew": [
+      {
+        "name": "sangria",
+        "mood": "Parties"
+      },
+      {
+        "name": "mimosa",
+        "mood": "Celebrations"
+      },
+      {
+        "name": "aperol",
+        "mood": "Get-A-Way"
+      },
+      {
+        "name": "kir-royale",
+        "mood": "Luxurious"
+      }
+    ],
+    "description": "They offers a sophisticated and refreshing way to enjoy wine, blending its nuanced flavors with complementary ingredients. \n\nThese drinks range from sparkling and festive to fruity and elegant, making them perfect for any occasion."
+  },
+  {
+    "id": "Mocktails",
+    "crew": [
+      {
+        "name": "eggnog",
+        "mood": "Holidays"
+      },
+      {
+        "name": "shirley",
+        "mood": "Classics"
+      },
+      {
+        "name": "berry",
+        "mood": "Parties"
+      }
+    ],
+    "description": "Non-alcoholic cocktails, or mocktails, are vibrant and flavourful beverages crafted to deliver the sophistication of traditional cocktails without the alcohol. \n\nThey use juices, syrups, herbs, and sparkling water to create refreshing, balanced drinks suitable for everyone."
+  },
+  {
+    "id": "Others",
+    "crew": [
+      {
+        "name": "naked",
+        "mood": "Romantic"
+      },
+      {
+        "name": "silk-stocking",
+        "mood": "Parties"
+      },
+      {
+        "name": "thimisis",
+        "mood": "Luxurious"
+      }
+    ],
+    "description": "They break away from traditional spirits like rum, whiskey, or vodka, featuring unique bases such as aperitifs, liqueurs, or fortified wines. These drinks explore unconventional flavors and textures, offering a fresh and creative twist to classic cocktail traditions. \n\nPerfect for those who appreciate innovation and sophistication, these cocktails cater to diverse tastes and occasions."
+  }
+]

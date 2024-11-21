@@ -11,6 +11,17 @@
 		285E9AD92CEE94D300395528 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 285E9AD82CEE94D300395528 /* ContentView.swift */; };
 		285E9ADB2CEE94D400395528 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 285E9ADA2CEE94D400395528 /* Assets.xcassets */; };
 		285E9ADE2CEE94D400395528 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 285E9ADD2CEE94D400395528 /* Preview Assets.xcassets */; };
+		285E9AE92CEE956800395528 /* CocktailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 285E9AE82CEE956800395528 /* CocktailView.swift */; };
+		285E9AEB2CEE958000395528 /* BaseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 285E9AEA2CEE958000395528 /* BaseView.swift */; };
+		285E9AED2CEE959600395528 /* Colour-Theme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 285E9AEC2CEE959600395528 /* Colour-Theme.swift */; };
+		285E9AEF2CEE95B700395528 /* Bundle-Decodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 285E9AEE2CEE95B700395528 /* Bundle-Decodable.swift */; };
+		2873C0002CEFB65E00B89D47 /* cocktails.json in Resources */ = {isa = PBXBuildFile; fileRef = 2873BFFE2CEFB65E00B89D47 /* cocktails.json */; };
+		2873C0012CEFB65E00B89D47 /* bases.json in Resources */ = {isa = PBXBuildFile; fileRef = 2873BFFF2CEFB65E00B89D47 /* bases.json */; };
+		2873C0032CEFB91900B89D47 /* Cocktail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2873C0022CEFB91900B89D47 /* Cocktail.swift */; };
+		2873C0052CEFB93800B89D47 /* Base.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2873C0042CEFB93800B89D47 /* Base.swift */; };
+		2873C0072CEFB94D00B89D47 /* CrewMemberView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2873C0062CEFB94D00B89D47 /* CrewMemberView.swift */; };
+		2873C0092CEFBD7900B89D47 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2873C0082CEFBD7900B89D47 /* Extensions.swift */; };
+		2898A7392CEFD8D300D4C00D /* AppAppearance.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2898A7382CEFD8D300D4C00D /* AppAppearance.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +30,17 @@
 		285E9AD82CEE94D300395528 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		285E9ADA2CEE94D400395528 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		285E9ADD2CEE94D400395528 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		285E9AE82CEE956800395528 /* CocktailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CocktailView.swift; sourceTree = "<group>"; };
+		285E9AEA2CEE958000395528 /* BaseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseView.swift; sourceTree = "<group>"; };
+		285E9AEC2CEE959600395528 /* Colour-Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Colour-Theme.swift"; sourceTree = "<group>"; };
+		285E9AEE2CEE95B700395528 /* Bundle-Decodable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Bundle-Decodable.swift"; sourceTree = "<group>"; };
+		2873BFFE2CEFB65E00B89D47 /* cocktails.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = cocktails.json; sourceTree = "<group>"; };
+		2873BFFF2CEFB65E00B89D47 /* bases.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = bases.json; sourceTree = "<group>"; };
+		2873C0022CEFB91900B89D47 /* Cocktail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cocktail.swift; sourceTree = "<group>"; };
+		2873C0042CEFB93800B89D47 /* Base.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Base.swift; sourceTree = "<group>"; };
+		2873C0062CEFB94D00B89D47 /* CrewMemberView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CrewMemberView.swift; sourceTree = "<group>"; };
+		2873C0082CEFBD7900B89D47 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
+		2898A7382CEFD8D300D4C00D /* AppAppearance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppAppearance.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +73,19 @@
 		285E9AD52CEE94D300395528 /* SipAndStir */ = {
 			isa = PBXGroup;
 			children = (
+				2873C0082CEFBD7900B89D47 /* Extensions.swift */,
+				2898A7382CEFD8D300D4C00D /* AppAppearance.swift */,
 				285E9AD62CEE94D300395528 /* SipAndStirApp.swift */,
 				285E9AD82CEE94D300395528 /* ContentView.swift */,
+				285E9AEA2CEE958000395528 /* BaseView.swift */,
+				285E9AE82CEE956800395528 /* CocktailView.swift */,
+				285E9AEC2CEE959600395528 /* Colour-Theme.swift */,
+				285E9AEE2CEE95B700395528 /* Bundle-Decodable.swift */,
+				2873C0022CEFB91900B89D47 /* Cocktail.swift */,
+				2873C0042CEFB93800B89D47 /* Base.swift */,
+				2873C0062CEFB94D00B89D47 /* CrewMemberView.swift */,
+				2873BFFF2CEFB65E00B89D47 /* bases.json */,
+				2873BFFE2CEFB65E00B89D47 /* cocktails.json */,
 				285E9ADA2CEE94D400395528 /* Assets.xcassets */,
 				285E9ADC2CEE94D400395528 /* Preview Content */,
 			);
@@ -125,8 +158,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2873C0012CEFB65E00B89D47 /* bases.json in Resources */,
 				285E9ADE2CEE94D400395528 /* Preview Assets.xcassets in Resources */,
 				285E9ADB2CEE94D400395528 /* Assets.xcassets in Resources */,
+				2873C0002CEFB65E00B89D47 /* cocktails.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +172,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				285E9AE92CEE956800395528 /* CocktailView.swift in Sources */,
 				285E9AD92CEE94D300395528 /* ContentView.swift in Sources */,
+				285E9AED2CEE959600395528 /* Colour-Theme.swift in Sources */,
+				2898A7392CEFD8D300D4C00D /* AppAppearance.swift in Sources */,
+				2873C0032CEFB91900B89D47 /* Cocktail.swift in Sources */,
 				285E9AD72CEE94D300395528 /* SipAndStirApp.swift in Sources */,
+				285E9AEB2CEE958000395528 /* BaseView.swift in Sources */,
+				2873C0052CEFB93800B89D47 /* Base.swift in Sources */,
+				285E9AEF2CEE95B700395528 /* Bundle-Decodable.swift in Sources */,
+				2873C0092CEFBD7900B89D47 /* Extensions.swift in Sources */,
+				2873C0072CEFB94D00B89D47 /* CrewMemberView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

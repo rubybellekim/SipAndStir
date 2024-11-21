@@ -1,0 +1,142 @@
+{
+  "sidecar": {
+    "id": "sidecar",
+    "name": "Sidecar",
+    "description": "Recipe:\n- 1.5 oz (45 ml) brandy or cognac\n- 0.75 oz (22 ml) orange liqueur (e.g., Cointreau)\n- 0.75 oz (22 ml) fresh lemon juice\n\nShake all ingredients with ice and strain into a chilled cocktail glass. Garnish with a sugared rim.\n\nWhy iconic?\nThe Sidecar is a timeless sour cocktail, balancing sweetness and tartness with elegance, believed to have originated in the early 20th century in Paris."
+  },
+  "brandy-alexander": {
+    "id": "brandy-alexander",
+    "name": "Brandy Alexander",
+    "description": "Recipe:\n- 1 oz (30 ml) brandy\n- 1 oz (30 ml) crème de cacao\n- 1 oz (30 ml) cream\n\nShake with ice and strain into a cocktail glass. Garnish with grated nutmeg.\n\nWhy iconic?\nThis creamy and luxurious dessert cocktail became immensely popular in the mid-20th century, celebrated for its smooth, rich flavours."
+  },
+  "champagne-cocktail": {
+    "id": "champagne-cocktail",
+    "name": "Champagne Cocktail",
+    "description": "Recipe:\n- 1 sugar cube\n- 2 dashes Angostura bitters\n- 1 oz (30 ml) brandy\n- Top with Champagne\n\nSoak the sugar cube in bitters and place it in a flute glass. Add brandy and top with Champagne. Garnish with a lemon twist.\n\nWhy iconic?\nThis celebratory drink, dating back to the 19th century, combines the sparkle of Champagne with the warmth of brandy for a perfect toast."
+  },
+  "martini": {
+    "id": "martini",
+    "name": "Martini",
+    "description": "Recipe:\n- 2.5 oz (75 ml) gin\n- 0.5 oz (15 ml) dry vermouth\n\nStir with ice and strain into a chilled martini glass. Garnish with a lemon twist or an olive.\n\nWhy iconic?\nA symbol of sophistication, the Martini is a classic that highlights gin's botanical elegance. Its origins date back to the late 19th century."
+  },
+  "negroni": {
+    "id": "negroni",
+    "name": "Negroni",
+    "description": "Recipe:\n- 1 oz (30 ml) gin\n- 1 oz (30 ml) Campari\n- 1 oz (30 ml) sweet vermouth\n\nStir with ice and strain into a rocks glass over a large ice cube. Garnish with an orange peel.\n\nWhy iconic?\nInvented in Italy in 1919, the Negroni is known for its bold, bittersweet flavour profile and timeless appeal."
+  },
+  "tom-collins": {
+    "id": "tom-collins",
+    "name": "Tom Collins",
+    "description": "Recipe:\n- 2 oz (60 ml) gin\n- 1 oz (30 ml) fresh lemon juice\n- 0.5 oz (15 ml) simple syrup\n- Top with club soda\n\nShake gin, lemon juice, and syrup with ice, strain into a Collins glass filled with ice, and top with soda. Garnish with a lemon slice.\n\nWhy iconic?\nThis refreshing, fizzy cocktail has been a favourite since the mid-19th century, making it a perfect choice for summer."
+  },
+  "gin-and-tonic": {
+    "id": "gin-tonic",
+    "name": "Gin & Tonic",
+    "description": "Recipe:\n- 2 oz (60 ml) gin\n- 4 oz (120 ml) tonic water\n\nPour gin over ice in a highball glass, top with tonic water, and garnish with a lime wedge.\n\nWhy iconic?\nSimple yet endlessly customizable, the Gin & Tonic dates back to the British colonial era when tonic water was used to combat malaria, becoming a staple ever since."
+  },
+  "mojito": {
+    "id": "mojito",
+    "name": "Mojito",
+    "description": "Recipe:\n- 2 oz (60 ml) white rum\n- 1 oz (30 ml) fresh lime juice\n- 2 tsp sugar\n- 6–8 mint leaves\n- Soda water\n\nIn a glass, muddle mint, lime juice, and sugar. Add ice and rum, top with soda water, and gently stir. Garnish with a mint sprig.\n\nWhy iconic?\nRefreshing and light, this Cuban classic combines rum with lime and mint for a perfect tropical escape."
+  },
+  "daiquiri": {
+    "id": "daiquiri",
+    "name": "Daiquiri",
+    "description": "Recipe:\n- 2 oz (60 ml) white rum\n- 1 oz (30 ml) fresh lime juice\n- 0.5 oz (15 ml) simple syrup\n\nShake with ice, strain into a coupe glass, and garnish with a lime wheel.\n\nWhy iconic?\nThis simple yet elegant drink balances rum's natural sweetness with lime's tartness, embodying cocktail simplicity."
+  },
+  "pinacolada": {
+    "id": "pinacolada",
+    "name": "Piña Colada",
+    "description": "Recipe:\n- 2 oz (60 ml) white rum\n- 2 oz (60 ml) coconut cream\n- 4 oz (120 ml) pineapple juice\n\nBlend ingredients with ice until smooth, pour into a hurricane glass, and garnish with a pineapple wedge and cherry.\n\nWhy iconic?\nThis creamy, tropical favourite transports drinkers to beachside bliss with its rich, fruity flavours."
+  },
+  "maitai": {
+    "id": "maitai",
+    "name": "Mai Tai",
+    "description": "Recipe:\n- 1 oz (30 ml) dark rum\n- 1 oz (30 ml) white rum\n- 0.5 oz (15 ml) orange curaçao\n- 0.5 oz (15 ml) orgeat syrup\n- 0.75 oz (22 ml) fresh lime juice\n\nShake all but the dark rum with ice, strain over crushed ice, float dark rum on top, and garnish with mint and lime.\n\nWhy iconic?\nA tiki staple that celebrates rum's depth with layers of fruity and nutty flavours."
+  },
+  "moscowmule": {
+    "id": "moscow-mule",
+    "name": "Moscow Mule",
+    "description": "Recipe:\n- 2 oz (60 ml) vodka\n- 4–6 oz (120–180 ml) ginger beer\n- 0.5 oz (15 ml) fresh lime juice\n\nPour vodka and lime juice into a copper mug filled with ice. Top with ginger beer and garnish with a lime wedge.\n\nWhy iconic?\nIts spicy and refreshing flavour, paired with its signature copper mug, has made it a modern classic."
+  },
+  "bloodymary": {
+    "id": "bloody-mary",
+    "name": "Bloody Mary",
+    "description": "Recipe:\n- 2 oz (60 ml) vodka\n- 4 oz (120 ml) tomato juice\n- 0.5 oz (15 ml) lemon juice\n- A dash of Worcestershire sauce, hot sauce, and spices (e.g., salt, pepper, celery salt)\n\nShake all ingredients with ice and strain into a glass with fresh ice. Garnish with celery, olives, or a lemon wedge.\n\nWhy iconic?\nKnown as the ultimate brunch cocktail, its savoury and customizable nature keeps it timeless."
+  },
+  "cosmopolitan": {
+    "id": "cosmopolitan",
+    "name": "Cosmopolitan",
+    "description": "Recipe:\n- 1.5 oz (45 ml) vodka\n- 1 oz (30 ml) cranberry juice\n- 0.5 oz (15 ml) triple sec\n- 0.25 oz (7 ml) fresh lime juice\n\nShake all ingredients with ice, strain into a chilled martini glass, and garnish with an orange peel.\n\nWhy iconic?\nPopularized by the TV series Sex and the City, it’s a stylish, fruity, and tangy cocktail perfect for special occasions."
+  },
+  "old-fashioned": {
+    "id": "old-fashioned",
+    "name": "Old Fashioned",
+    "description": "Recipe:\n- 2 oz (60 ml) Bourbon or Rye Whiskey\n- 1 sugar cube (or 0.5 oz/15 ml simple syrup)\n- 2 dashes Angostura bitters\n- Orange peel (for garnish)\n\nPlace the sugar cube in a glass, saturate it with bitters, and muddle until dissolved. Add whiskey and a large ice cube. Stir gently and garnish with an orange peel.\n\nWhy iconic?\nThe Old Fashioned is one of the oldest known cocktails, loved for its simplicity and ability to showcase the whiskey’s character with a touch of sweetness and citrus."
+  },
+  "manhattan": {
+    "id": "manhattan",
+    "name": "Manhattan",
+    "description": "Recipe:\n 2 oz (60 ml) Rye whiskey\n 1 oz (30 ml) sweet vermouth\n 2 dashes Angostura bitters\n\nStir with ice and strain into a chilled cocktail glass. Garnish with a cherry.\n\nWhy iconic?\nThe Manhattan is a beloved classic, its smooth blend of whiskey and vermouth creating a balanced, aromatic drink."
+  },
+  "whisky-sour": {
+    "id": "whisky-sour",
+    "name": "Whiskey Sour",
+    "description": "Recipe:\n- 2 oz (60 ml) Bourbon or Rye whiskey\n- 0.75 oz (22 ml) lemon juice\n- 0.5 oz (15 ml) simple syrup\n\nShake all ingredients with ice and strain into a rocks glass. Garnish with a cherry.\n\nWhy iconic?\nThis timeless cocktail, enjoyed since the 19th century, is a perfect balance of tart, sweet, and rich flavours."
+  },
+  "mint-julep": {
+    "id": "mint-julep",
+    "name": "Mint Julep",
+    "description": "Recipe:\n- 2 oz (60 ml) Bourbon whiskey\n- 0.5 oz (15 ml) simple syrup\n- Fresh mint leaves\n- Crushed ice\n\nMuddle fresh mint leaves with simple syrup in a silver or pewter cup. Fill with crushed ice, add bourbon, and stir. Top with more crushed ice and garnish with a sprig of mint.\n\nWhy iconic?\nThe Mint Julep is synonymous with Southern charm, especially at the Kentucky Derby. Its refreshing minty flavor and crushed ice make it a go-to for warm weather."
+  },
+  "sangria": {
+    "id": "sangria",
+    "name": "Sangria",
+    "description": "Recipe:\n- 1 bottle (750 ml) red wine (e.g., Rioja or Garnacha)\n- 1/4 cup (60 ml) brandy\n- 2 tbsp (30 ml) orange liqueur (optional)\n- 1 orange, sliced\n- 1 lemon, sliced\n- 1/4 cup (60 ml) simple syrup or sugar to taste\n- 1-2 cups (240–480 ml) soda water or orange juice\n- Seasonal fruits (e.g., apples, berries) for garnish\n\nCombine wine, brandy, orange liqueur, citrus slices, and sugar in a pitcher. Let it chill for at least 1-2 hours (or overnight). Add soda water or orange juice just before serving. Garnish with seasonal fruits.\n\nWhy iconic?\nSangria's origins in Spain have made it a globally loved drink. Its blend of wine, fruit, and subtle sweetness offers a versatile and crowd-pleasing option for gatherings."
+  },
+  "mimosa": {
+    "id": "mimosa",
+    "name": "Mimosa",
+    "description": "Recipe:\n- 3 oz (90 ml) chilled sparkling wine (e.g., Champagne or Prosecco)\n- 3 oz (90 ml) fresh orange juice\n- Orange slice or twist (for garnish)\n\nPour equal parts sparkling wine and orange juice into a flute glass. Stir gently and garnish with an orange slice or twist.\n\nWhy iconic?\nThe Mimosa is a brunch staple, celebrated for its light and bubbly nature. Its simplicity and elegance make it a go-to for morning and daytime celebrations."
+  },
+  "aperol": {
+    "id": "aperol",
+    "name": "Aperol Spritz",
+    "description": "Recipe:\n- 3 oz (90 ml) Prosecco\n- 2 oz (60 ml) Aperol\n- 1 oz (30 ml) soda water\n- Orange slice (for garnish)\n\nFill a wine glass with ice. Pour in Prosecco, Aperol, and soda water. Stir gently and garnish with an orange slice.\n\nWhy iconic?\nThe Aperol Spritz hails from Italy and is known for its vibrant orange hue and bittersweet, refreshing flavor. It’s a quintessential summer aperitif, perfect for leisurely sipping."
+  },
+  "kir-royale": {
+    "id": "kir-royale",
+    "name": "Kir Royale",
+    "description": "Recipe:\n- 5 oz (150 ml) Champagne or sparkling wine\n- 0.5 oz (15 ml) Crème de Cassis (blackcurrant liqueur)\n- Blackcurrant or lemon twist (for garnish)\n\nPour Crème de Cassis into a flute glass, then gently top with Champagne or sparkling wine. Garnish with a blackcurrant or a lemon twist.\n\nWhy iconic?\nThe Kir Royale is a French classic that exudes elegance. Its blend of sparkling wine and fruity blackcurrant liqueur is simple yet luxurious, making it a favorite for toasts and special occasions."
+  },
+  "eggnog": {
+    "id": "eggnog",
+    "name": "Non-Alcoholic Eggnog",
+    "description": "Recipe:\n- 2 cups (480 ml) whole milk\n- 1 cup (240 ml) heavy cream\n- 3 large egg yolks\n- 1/4 cup (50 g) sugar\n- 1 tsp vanilla extract\n- 1/4 tsp ground cinnamon (plus extra for garnish)\n- 1/4 tsp ground nutmeg (plus extra for garnish)\n- Pinch of salt\n- Whipped cream (optional, for garnish)\n\nIn a saucepan, combine milk, cream, cinnamon, nutmeg, and salt. Heat over medium-low, stirring occasionally, until warm (but not boiling). In a separate bowl, whisk egg yolks and sugar until thickened and pale. Gradually add the warm milk mixture to the egg yolks, whisking constantly to temper the eggs. Pour everything back into the saucepan and heat gently, stirring until thickened slightly (about 5-7 minutes). Remove from heat, stir in vanilla extract, and let it cool. Chill in the fridge for at least 2 hours or overnight. Serve in a glass, topped with whipped cream and a sprinkle of cinnamon and nutmeg.\n\nWhy iconic?\nEggnog is a beloved holiday tradition, rich and creamy with a comforting blend of warm spices. This non-alcoholic version allows everyone to enjoy the classic taste of this festive treat without the alcohol."
+  },
+  "shirley": {
+    "id": "shirley",
+    "name": "Shirley Temple",
+    "description": "Recipe:\n- 4 oz (120 ml) ginger ale or lemon-lime soda\n- 1 oz (30 ml) grenadine syrup\n- Maraschino cherry and orange slice (for garnish)\n\nFill a glass with ice. Pour ginger ale or lemon-lime soda over the ice, then drizzle in grenadine syrup. Stir gently and garnish with a cherry and orange slice.\n\nWhy iconic?\nCreated in honor of the child actress Shirley Temple, this drink’s sweet, bubbly flavor and eye-catching red hue make it a nostalgic favorite for all ages."
+  },
+  "berry": {
+    "id": "berry",
+    "name": "Berry Lemonade Spritz",
+    "description": "Recipe:\n- 4 oz (120 ml) lemonade\n- 2 oz (60 ml) mixed berry puree (e.g., strawberry, blueberry, raspberry)\n- 2 oz (60 ml) sparkling water\n- Ice cubes\n- Fresh berries and lemon slices (for garnish)\n\nMix lemonade and berry puree in a shaker. Pour the mixture into a glass filled with ice, top with sparkling water, and stir gently. Garnish with fresh berries and lemon slices.\n\nWhy iconic?\nThe Berry Lemonade Spritz offers a fruity, tangy twist on a classic lemonade, enhanced with the sweetness of berries and the effervescence of sparkling water."
+  },
+  "naked": {
+    "id": "naked-and-famous",
+    "name": "Naked & Famous",
+    "description": "Recipe:\n- 3/4 oz (22.5 ml) mezcal\n- 3/4 oz (22.5 ml) yellow Chartreuse\n- 3/4 oz (22.5 ml) Aperol\n- 3/4 oz (22.5 ml) fresh lime juice\n\nCombine all ingredients in a shaker with ice. Shake vigorously and strain into a chilled coupe glass. No garnish is needed.\n\nWhy iconic?\nA modern classic invented by Joaquín Simó at Death & Co in New York City, the Naked and Famous is celebrated for its bold yet harmonious blend of flavors. The smoky mezcal, herbal Chartreuse, and bitter-sweet Aperol combine seamlessly, balanced by the tart lime juice. It's a vibrant, daring cocktail that embodies innovation and balance in equal measure."
+  },
+  "silk-stocking": {
+    "id": "silk-stocking",
+    "name": "Silk Stocking",
+    "description": "Recipe:\n- 1 1/2 oz (45 ml) tequila\n- 3/4 oz (22.5 ml) white crème de cacao\n- 1/4 oz (7.5 ml) grenadine\n- 1 oz (30 ml) heavy cream\n- Grated nutmeg (for garnish)\n\nCombine tequila, white crème de cacao, grenadine, and heavy cream in a shaker with ice. Shake well and strain into a chilled cocktail glass. Garnish with a light sprinkle of grated nutmeg.\n\nWhy iconic?\nThe Silk Stocking is a dessert-style tequila cocktail that surprises with its creamy, sweet profile. The combination of rich chocolate notes, grenadine’s subtle fruitiness, and the smoothness of heavy cream creates a decadent drink with a luxurious texture. Perfect for special occasions or as an indulgent treat."
+  },
+  "thimisis": {
+    "id": "thimisis",
+    "name": "Thimisis",
+    "description": "Recipe:\n- 1 1/2 oz (45 ml) ouzo\n- 3/4 oz (22.5 ml) fresh lemon juice\n- 1/2 oz (15 ml) honey syrup (1:1 honey and water)\n- 2 oz (60 ml) soda water\n- Lemon twist and fresh mint sprig (for garnish)\n\nShake ouzo, lemon juice, and honey syrup with ice until well chilled. Strain into a highball glass filled with ice, top with soda water, and stir gently. Garnish with a lemon twist and mint sprig.\n\nWhy iconic?\nThe Thimisis is a vibrant Mediterranean cocktail that balances the aniseed flavor of ouzo with the tartness of fresh lemon juice and the natural sweetness of honey. It's refreshing and aromatic, evoking the flavors of Greece."
+  }
+}
