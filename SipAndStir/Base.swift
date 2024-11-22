@@ -27,6 +27,7 @@ struct Base: Codable, Identifiable, Hashable {
     }
     
     var abvinfo: String {
+        //ABV info, if not exist then denoted as "N/A"
         ABV ?? "N/A"
     }
 }

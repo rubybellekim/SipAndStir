@@ -13,7 +13,7 @@ struct CrewMemberView: View {
     let crew: [CrewMember]
     
     var body: some View {
-        //section divider
+        //custom section divider from Extension
         SectionDivider()
         
         Text("Crew")
@@ -24,6 +24,7 @@ struct CrewMemberView: View {
         ScrollView(.horizontal, showsIndicators: false) {
             HStack {
                 ForEach(crew, id: \.mood) { crewMember in
+                    //connect to the each cocktail's page
                     NavigationLink {
                         CocktailView.init(cocktail: crewMember.cocktail)
                     } label: {
@@ -40,10 +41,10 @@ struct CrewMemberView: View {
                             VStack(alignment: .leading) {
                                 Text(crewMember.cocktail.name)
                                     .foregroundStyle(.white)
-//                                    .font(.headline)
                                 
                                 Text(crewMember.mood)
                                     .foregroundStyle(.white.opacity(0.5))
+                                    .font(.caption)
                             }
                         }
                         .padding(.horizontal)

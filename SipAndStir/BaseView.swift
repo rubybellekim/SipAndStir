@@ -18,18 +18,12 @@ struct BaseView: View {
                 Image(base.image)
                     .resizable()
                     .scaledToFit()
-//                    .clipShape(Circle())
-//                    .overlay(
-//                        Circle().stroke(Color.white, lineWidth: 1) // Border around the clipped image
-//                    )
                     .containerRelativeFrame(.horizontal) {
                         width, axis in width * 0.6
                     }
                 
                 VStack(alignment: .center) {
                     Text("ABV: \(base.abvinfo)")
-//                        .font(Font.system(size: 23, weight: .bold))
-//                        .font(.caption)
                         .foregroundStyle(.gray)
                         .multilineTextAlignment(.center)
                         .padding()
@@ -37,11 +31,9 @@ struct BaseView: View {
                 
                 VStack(alignment: .leading) {
                     
-                    //section divider
+                    //custom section divider from Extension
                     SectionDivider()
-                    //Divider()
-                      //this is barely seen
-                    
+
                     Text("Highlights")
                         .font(Font.custom("Didot", size: 25))
                         .fontWeight(.bold)
@@ -59,9 +51,6 @@ struct BaseView: View {
         .navigationTitle(base.displayName)
         .navigationBarTitleDisplayMode(.inline)
         .applyAppAppearance()
-//        .preferredColorScheme(.dark)
-//        .background(.darkBackground)
-        
     }
     
     init(base: Base, cocktails: [String: Cocktail]) {

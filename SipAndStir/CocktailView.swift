@@ -22,11 +22,9 @@ struct CocktailView: View {
                 Text(cocktail.description)
                     .padding()
             }
-//            .background(.darkBackground)
-//            .preferredColorScheme(.dark)
-            .applyAppAppearance()
             .navigationTitle(cocktail.name)
             .navigationBarTitleDisplayMode(.inline)
+            .applyAppAppearance()
         }
     }
 }

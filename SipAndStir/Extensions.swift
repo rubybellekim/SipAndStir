@@ -16,7 +16,7 @@ struct CrewMember {
 struct SectionDivider: View {
     var body: some View {
         Rectangle()
-            .frame(height: 1)
+            .frame(height: 0.5)
             .foregroundStyle(.lightBackground)
             .padding(.vertical)
     }
